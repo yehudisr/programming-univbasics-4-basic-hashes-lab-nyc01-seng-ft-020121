@@ -1,13 +1,13 @@
 def new_hash
- hash1 = {}
+ {}
 end
 
 def my_hash
-  hash2 = {name: "jude", age: 45}
+  {name: "jude", age: 45}
 end
 
 def pioneer
-  hash3 = {
+  {
     :name => "Grace Hopper"
   }
 end
